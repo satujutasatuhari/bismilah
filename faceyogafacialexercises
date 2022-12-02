@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -63,8 +63,8 @@
 "UNITY_INTERSTITIAL" : "Interstitial_Android",
 "UNITY_GAME_ID" : "",
 
-"APPLOVIN_BANNER_MAX_ID" : "",
-"APPLOVIN_INTERSTITIAL_MAX_ID" : "",
+"APPLOVIN_BANNER_MAX_ID" : "b32f44415f3a3649",
+"APPLOVIN_INTERSTITIAL_MAX_ID" : "027246a9e5dab4f9",
 
 "BUTTON_START" : "START",
 "BUTTON_SHARE" : "SHARE TO FRIEND",
